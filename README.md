@@ -8,7 +8,8 @@ Staring at a stream with no action(trying to catch my nephews and nieces red-han
 <br><br>
 Security feed(which is optional of course) with motion detection(opencv)...
 <br><br>
-![feed1](/photos/feed_1.jpg&s=200) ![feed2](/photos/feed_2.jpg&s=200)
+<img src="https://github.com/serrMax/pi_surveillance_opencv/photos/feed_1.jpg" width="400">
+<img src="https://github.com/serrMax/pi_surveillance_opencv/photos/feed_2.jpg" width="400">
 <br><br>
 and ...
 <br><br>
@@ -17,4 +18,4 @@ we can catch them in the act of "crime" immediately ...
 ![email1](/photos/email_1.jpg) ![email2](/photos/email_2.jpg)
 <br><br>
 and the cherry on top is the lightning fast email notification with the image of the intruder (evil laugh)
-![screenshot](/photos/screenshot.PNG){:height="50%" width="50%"}
+![screenshot](/photos/screenshot.PNG)
