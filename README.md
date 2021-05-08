@@ -8,7 +8,7 @@ Staring at a stream with no action(trying to catch my nephews and nieces red-han
 <br><br>
 Security feed(which is optional of course) with motion detection(opencv)...
 <br><br>
-<img src="https://github.com/serrMax/pi_surveillance_opencv/photos/feed_1.jpg" width="400">
+![feed1](/photos/feed_1.jpg)
 <img src="https://github.com/serrMax/pi_surveillance_opencv/photos/feed_2.jpg" width="400">
 <br><br>
 and ...
