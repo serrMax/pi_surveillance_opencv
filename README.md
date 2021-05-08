@@ -17,4 +17,4 @@ we can catch them in the act of "crime" immediately ...
 ![email1](/photos/email_1.jpg) ![email2](/photos/email_2.jpg)
 <br><br>
 and the cherry on top is the lightning fast email notification with the image of the intruder (evil laugh)
-![screenshot](/photos/screenshot.png)
+![screenshot](/photos/screenshot.PNG)
