@@ -8,7 +8,7 @@ Staring at a stream with no action(trying to catch my nephews and nieces red-han
 <br><br>
 Security feed(which is optional of course) with motion detection(opencv)...
 <br><br>
-![feed1](/photos/feed_1.jpg){:height="50%" width="50%"} ![feed2](/photos/feed_2.jpg){:height="50%" width="50%"}
+![feed1](/photos/feed_1.jpg){:class="img-responsive" height="50%" width="50%"} ![feed2](/photos/feed_2.jpg){:class="img-responsive" height="50%" width="50%"}
 <br><br>
 and ...
 <br><br>
